@@ -1,5 +1,6 @@
 package overriding;
 
+// overriding
 public class ConvariantReturnType {
 	public ConvariantReturnType clone() {
 		Object obj = null;
